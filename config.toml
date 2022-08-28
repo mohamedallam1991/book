@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://mohamedallam1991.github.io/book"
 languageCode = "en-us"
-title = "Influencer"
+title = "Mohamed"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
@@ -72,7 +72,9 @@ home = "Home"
 description = "This is meta description"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "" # Your ID
+# [Params]
+# googleAnalytics = "G-0YVRZ8RGBF"
+googleAnalitycsID = "G-3GSJTL3677" # Your ID
 # copyright
 copyright = "Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
